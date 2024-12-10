@@ -18,7 +18,7 @@ This repository contains a TensorFlow-based project that predicts the color of d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dress-color-prediction.git
+   git clone https://github.com/SANDHOSH02/dress-color-prediction.git
    cd dress-color-prediction
 
 
