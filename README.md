@@ -20,3 +20,6 @@ This repository contains a TensorFlow-based project that predicts the color of d
    ```bash
    git clone https://github.com/your-username/dress-color-prediction.git
    cd dress-color-prediction
+
+
+-- >>>FOR install library : pip install -r requirements.txt
