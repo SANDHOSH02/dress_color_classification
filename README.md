@@ -29,4 +29,4 @@ This repository contains a TensorFlow-based project that predicts the color of d
 Output 
 ------
 
-![alt text](output\image.png)
+![alt text](output/image.png)
