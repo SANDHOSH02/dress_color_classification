@@ -23,3 +23,10 @@ This repository contains a TensorFlow-based project that predicts the color of d
 
 
 -- >>>FOR install library : pip install -r requirements.txt
+
+
+
+Output 
+------
+
+![alt text](output\image.png)
